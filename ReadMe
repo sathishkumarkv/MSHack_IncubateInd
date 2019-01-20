@@ -1,0 +1,32 @@
+URL: http://agriappims.azurewebsites.net/Dashboard.html
+
+Team Name:  Code Breaker
+
+App Name :The Agri-IMS App
+
+A common farmers doesn't have information at his fingertip. The information is splitted and he has to struggle to get the information regarding his crops,
+government scheme for his lands, fertilizers to be used , which will be best suitable crops for his land accoding to current year and season, weather information, how the climate change can effect his farming - so as to take preventive measeure.
+
+
+Solution: The Agri App, which will give access to all the information related to farming, weather updates, government scheme, and links to see the details.
+
+Special functionality: 
+
+For Shop Owner: 
+Lets say, in a particular reason , the farmers are searching for particular disease , means there is hifh probablity that the reason is affected with that disease and we can notify the near by shops to update that particular stocks,as the demand will be high.
+
+For Government:
+a) Government will have the statics of crops grows.
+b) In case of flood or draught, data can be uploaded or verified directly from the system- helping in getting the government scheme easily
+c) Can reach out to farmers directly
+
+For Farmers:
+
+a) All the information in finger tip
+b) Easily to identity the suiltable crops for his land
+c) Availiblity of fertilizers as nearby shops will have the statics for his region
+d) Easy to access loans- as RTC can be verified directly from the application
+e) Easy access to government scheme
+f) Notification for climate change
+g) Notification for scheduled task related to farming 
+h) Scheduling of task.
